@@ -1,4 +1,6 @@
-for (number = 1; number <= 100; number++){
+var numberLimit = 100;
+
+for (number = 1; number <= numberLimit; number++){
 	if (number % 3 === 0) {
 	if (number % 5 === 0) {
 		console.log("FizzBuzz");
