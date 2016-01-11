@@ -21,3 +21,4 @@ for (number = 1; number <= numberLimit; number++){
 		console.log(number);
 	}
 }
+
